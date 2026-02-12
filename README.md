@@ -25,7 +25,7 @@ This project follows the **Standard Modular Architecture (NestJS Convention)** t
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/username-anda/repo-name.git](https://github.com/daniruliansyah/backend-nestjs.git)
+    git clone https://github.com/daniruliansyah/backend-nestjs.git
     cd backend-nestjs
     ```
 
