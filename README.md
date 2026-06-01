@@ -7,7 +7,7 @@ This project is a RESTful API built with **NestJS**, designed to manage Division
 - **Framework:** NestJS (Node.js)
 - **Database:** MySQL (via TypeORM)
 - **Authentication:** Passport-JWT & Bcrypt
-- **Testing:** Jest & Supertest
+- **Testing:** Postman, Jest & Supertest
 - **Language:** TypeScript
 
 ## 🏛️ Architecture Pattern
